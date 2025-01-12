@@ -3,6 +3,8 @@
 ## Overview
 This project simplifies database interaction by leveraging Gemini Pro, an advanced AI model, to convert natural language queries into SQL. The application supports both SQLite and MySQL databases and provides a user-friendly interface built with Streamlit.
 
+![image](https://github.com/user-attachments/assets/03137f65-d597-41be-a884-51e130f0e12a)
+
 ## Key Features
 - Converts natural language questions into SQL queries.
 - Supports SQLite and MySQL databases.
@@ -35,6 +37,9 @@ This project simplifies database interaction by leveraging Gemini Pro, an advanc
 2. Select the database type (SQLite or MySQL) and provide connection details.
 3. Enter a natural language question (e.g., "List all flights from New York to London").
 4. View the SQL query and its results displayed in the interface.
+
+ 
+
 
 
 
